@@ -39,7 +39,7 @@ The cost is only extra few seconds on computing permutation for each test.
 
 ### Permutation Test Idea 
 The idea is that for null hypothesis, conversion rates between treatment and controlled group are the same, share same distribution.
-We could compute the true conversion rates by replicates thousands of new treatment and controlled groups after resampling/permutating, then see if the observation is critical enough to reject null hypothesis. 
+We could compute the true conversion rates by replicating thousands of new treatment and controlled groups after resampling/permutating, then see if the observation is critical enough to reject null hypothesis. 
 Details and guidelines is in the notebook.
 
 ## Multivariate Test 
