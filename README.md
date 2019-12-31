@@ -14,8 +14,8 @@ Random sampling and implement AB Test by Permutation and Multivariate Test
 
 
 **Description**  
-Multiple A/B Tests giữa nhóm A1, A2, A3, A4 và nhóm C (Controlled) để tìm combination hiệu quả nhất  
-Multivariate Test giữa các nhóm A1, A2, A3, A4 để phân tích yếu tố ảnh hưởng lớn nhất tới hiệu quả (conversion rate/sale)
+Multiple A/B Tests between A1, A2, A3, A4 and C (Controlled) to find the best combination  
+Multivariate Test between A1, A2, A3, A4 to find the most important factors for dependent variable (conversion rate/sale)
 
 **Metrics**  
 Conversion rate 2 recommended products (remote shopping, fast checkout, general)  
